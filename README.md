@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Lalu+M;AI+%7C+ML+%7C+Developer;Hackathon+Winner+🏆;Future+Tech+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Lalu+M;AI+%7C+ML+%7C+Developer;Tech+Engineer+🚀" />
 </p>
 
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
+<h1 align="center">✨ Hello World!✨</h1>
 
 <p align="center">
   <b>💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Problem Solver</b>
@@ -14,7 +14,7 @@
 
 - 🎓 3rd Year CSE Student  
 - 🤖 Passionate about AI & ML  
-- 🏆 Hackathon Winner  
+- 🏆 2x Hackathon Winner  
 - 📊 Working on Real-Time Projects  
 - 🌱 Always Learning New Tech  
 - 🎯 Goal: High-Paying Tech Career
@@ -35,7 +35,16 @@
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![YOLO](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
 
 ---
 
@@ -52,10 +61,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
 
 ---
 
