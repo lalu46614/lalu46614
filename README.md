@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Lalu+M;AI+%7C+ML+%7C+Developer;Tech+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello;வணக்கம்;నమస్కారం;നമസ്കാരം;नमस्ते;" />
 </p>
 
-<h1 align="center">✨ Hello World!✨</h1>
+<h1 align="center">✨ Hi, I'm Lalu M ✨</h1>
 
 <p align="center">
   <b>💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Problem Solver</b>
@@ -12,12 +12,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 3rd Year CSE Student  
-- 🤖 Passionate about AI & ML  
-- 🏆 2x Hackathon Winner  
-- 📊 Working on Real-Time Projects  
-- 🌱 Always Learning New Tech  
-- 🎯 Goal: High-Paying Tech Career
+-  3rd Year CSE Student  
+-  Passionate about AI & ML  
+-  2x Hackathon Winner  
+-  Working on Real-Time Projects  
+-  Always Learning New Tech  
+-  Goal: Tech Career
 
 ---
 
@@ -50,48 +50,30 @@
 
 ## 📌 Featured Projects
 
-🚦 **Smart Traffic Accident Detection System**  
-🤖 **Emotion Recognition System**  
-📱 **RecruitAI – Resume Screening App**  
-🍔 **Online Food Ordering System**
+1 **Liquibase Database Migration System**  
+🔹 Automated schema versioning & rollback using Liquibase  
 
-➡️ Check my repositories for more 👇
+2 **EasyRecruit – AI Resume Screening Platform**  
+🔹 Smart candidate shortlisting with AI-based analysis  
 
----
+3️ **Smart Traffic Accident Detection System**  
+🔹 Real-time accident detection using AI & Computer Vision  
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
+➡️ Check my repositories for more 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/lalu-m-475312296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:lalu46614@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 💡 Fun Fact
-
-> ⚡ "I love turning ideas into real projects."
-
----
-
-## ❤️ Thanks for Visiting
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-  ⭐ Don't forget to star my repos if you like them!
-</p>
