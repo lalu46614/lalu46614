@@ -8,7 +8,7 @@
   <b>💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Problem Solver</b>
 </p>
 
----
+
 
 ## 🙋‍♂️ About Me
 
@@ -19,7 +19,7 @@
 -  Always Learning New Tech  
 -  Goal: Tech Career
 
----
+
 
 ## 🔥 Skills & Technologies
 
@@ -46,7 +46,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 
----
+
 
 ## 📌 Featured Projects
 
@@ -61,7 +61,22 @@
 
 ➡️ Check my repositories for more 
 
----
+<hr>
+
+🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake"
+         src="https://raw.githubusercontent.com/max-mani/max-mani/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 ## Connect With Me
 
